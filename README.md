@@ -64,3 +64,4 @@ Bom divertimento a todos e utilizem com cuidado!
  - Abrir o arquivo em modo protegido
  - Editar a macro (Alt+F11)
  - Utiliza a senha acaditi para desbloqueio
+ - Customize a planilha como achar melhor... (Relatório Financeiro, Vídeos eróticos, Lista de Filmes, ou qualquer outro tema que acione a curiosidade do usuário para ativar a macro)
