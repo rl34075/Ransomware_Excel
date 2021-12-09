@@ -7,7 +7,7 @@ Ransomware criado em Excel para mostrar o risco de deixar a execução de macros
 | 1.0    | 02/11/17 | Versão Inicial.                           |
 | 2.0    | 22/02/18 | Realizado ajustes no script.              |
 | 2.1    | 08/12/21 | Criação do manual de uso.                 |
-| 2.2    | 08/12/21 | Altaração de variáveis para evasão de AV. |
+| 2.2    | 08/12/21 | Alteração de variáveis para evasão de AV. |
 
 
 
