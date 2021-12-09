@@ -22,13 +22,14 @@ Ransonware criado em Excel para mostrar o risco de deixar a execução de macros
 
 
 - Gera um arquivo HTA para reverter o processo e um arquivo TXT com as instrucoes para desbloqueio.
+
 ![](https://l2r1.com.br/llll/rw/arquivos.PNG)
 
 ![](https://l2r1.com.br/llll/rw/leiame.hta.PNG)
 
 ![](https://l2r1.com.br/llll/rw/leiame.txt.PNG)
 
-   - Importante se for inserida 4 senhas incorretas no arquivo HTA, o mesmo se apagara, dificultando ainda mais a recuperacao (esta acao tem como objetivo inibir o processo de tentativas aleatorias de recuperacao
+- Importante se for inserida 4 senhas incorretas no arquivo HTA, o mesmo se apagara, dificultando ainda mais a recuperacao (esta acao tem como objetivo inibir o processo de tentativas aleatorias de recuperacao
 
 ![](https://l2r1.com.br/llll/rw/senhaerrada.png)
 
