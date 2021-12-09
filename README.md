@@ -2,11 +2,12 @@
 Ransomware criado em Excel para mostrar o risco de deixar a execução de macros ativada.
 
 ## Histórico
-| Versão | Data     | Descrição                                |
-| ------ | -------- | ---------------------------------------- |
-| 1.0    | 02/11/17 | Versão Inicial.                          |
-| 2.0    | 22/02/18 | Realizado ajustes no script.             |
-| 2.1    | 08/12/21 | criação do manual de uso.                |
+| Versão | Data     | Descrição                                 |
+| ------ | -------- | ------------------------------------------|
+| 1.0    | 02/11/17 | Versão Inicial.                           |
+| 2.0    | 22/02/18 | Realizado ajustes no script.              |
+| 2.1    | 08/12/21 | criação do manual de uso.                 |
+| 2.2    | 08/12/21 | altaração de variáveis para evasão de AV. |
 
 
 
