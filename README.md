@@ -1,5 +1,5 @@
 # Ransomware_Excel
-Ransonware criado em Excel para mostrar o risco de deixar a execução de macros ativada.
+Ransomware criado em Excel para mostrar o risco de deixar a execução de macros ativada.
 
 ## Histórico
 | Versão | Data     | Descrição                                |
