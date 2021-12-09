@@ -11,6 +11,7 @@ Ransomware criado em Excel para mostrar o risco de deixar a execução de macros
 
 
 
+
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1639009471/video_to_markdown/images/youtube--sgPyjPMKbZ0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/sgPyjPMKbZ0 "")
 
 
